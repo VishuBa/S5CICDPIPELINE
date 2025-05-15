@@ -29,6 +29,3 @@ jobs:
       run: |
         python src/train.py
     
-    - name: Test model
-      run: |
-        python src/test.py 

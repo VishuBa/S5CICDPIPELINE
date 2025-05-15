@@ -1,7 +1,7 @@
 import torch
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
-from model import MNISTModel, count_parameters
+from src.model import MNISTModel, count_parameters
 
 def test_model():
     # Set device to CPU
