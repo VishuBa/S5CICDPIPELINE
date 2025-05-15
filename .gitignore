@@ -30,7 +30,7 @@ ENV/
 .vscode/
 
 # Model files
-*.pth
+# *.pth
 *.pt
 *.h5
 
